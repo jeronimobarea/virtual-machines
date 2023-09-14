@@ -1,3 +1,3 @@
 [submodule "ts-vm"]
     path = ts-vm
-    url = git@github.com:ts-vm/ts-vm.git
+    url = git@github.com:jeronimobarea/ts-vm.git
